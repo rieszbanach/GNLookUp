@@ -1,5 +1,6 @@
 import setuptools
 import io
+import os
 
 NAME = 'GNLookUp'
 DESCRIPTION = 'News Scraper and Classifier.'

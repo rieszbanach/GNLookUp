@@ -1,0 +1,49 @@
+Los mosquitos, al igual que otros insectos, son vectores de enfermedades en humanos, al transmitirles parásitos o virus a través de sus picaduras. Dengue, chikunguña y zika, entre otras, son algunas de las patologías que afectan a millones de personas en todo el mundo y para las que aún no existen vacunas.
+
+Ante su ausencia, una manera de luchar contra la propagación de estas afecciones es controlar o erradicar al vector, en este caso, las hembras del mosquito Aedes aegypti que succionan la sangre.
+
+En el caso del dengue, ya se han liberado mosquitos estériles modificados que han mostrado cierto éxito. Pero muchas de estas técnicas son caras
+ 
+El insecto ha generado una emergencia de salud pública internacional por la transmisión del virus del zika, sobre todo en Sudamérica, según los datos de la Organización Mundial de la Salud (OMS). Especialmente preocupante es su posible relación con los miles de casos detectados en recién nacidos de trastornos neurológicos y malformaciones neonatales como microcefalia.
+
+Aunque ya se han puesto en marcha los primeros métodos de control, sobre todo fumigaciones, los expertos de la OMS recomiendan en un documento presentado esta semana incrementar los esfuerzos para controlar al vector y así reducir las densidades de mosquitos hasta un nivel en el que se interrumpan las transmisiones del virus.
+
+Los científicos trabajan desde años en el diseño de estrategias genéticas para limitar la propagación de estas enfermedades causadas por las hembras de los mosquitos, que son hematófagas (se alimentan de la sangre de otros animales) y, por tanto, responsables de las picaduras. Los machos son inofensivos succionadores de néctar.
+
+En el caso del dengue, ya se han liberado mosquitos estériles modificados que han mostrado cierto éxito. Pero muchas de estas técnicas son caras y en ocasiones irrealizables, ya que requieren puestas en libertad a largo plazo, difíciles de poner en marcha a gran escala.
+
+Modificar la genética de los mosquitos hembra
+
+Según un artículo publicado en la revista Trends in Parasitology, una estrategia más efectiva y barata consistiría en manejar los genes de la virilidad con el sistema CRISPR-Cas9, unas tijeras moleculares que permitirían, incluso en mosquitos, introducir de manera fácil y precisa mutaciones en cualquier lugar genómico de interés.
+
+“Al utilizar el sistema CRISPR-Cas9 todos los mosquitos podrían ser machos en cada generación”, dice Zach Adelman
+ 
+“Al utilizar el sistema CRISPR-Cas9 todos los mosquitos podrían ser machos en cada generación”, dice a Sinc Zach Adelman, entomólogo en el Virginia Tech (EE UU) y autor principal del trabajo. Para lograrlo, el científico propone combinar la técnica con el factor genético que determina el sexo y que permite cambiarlo de hembras a machos.
+
+En un estudio publicado en Science en mayo de 2015, Adelman y Zhijian Tu, del mismo instituto estadounidense, manipularon la expresión de los genes de embriones de hembras con el gen que determina el sexo, llamado Nix, lo que desencadenó el desarrollo de genitales externos e internos de macho.
+
+Sin embargo, el empleo de este gen no sería suficiente: “Solo la mitad de la descendencia sería masculina”, afirma el científico. Con las capacidades de edición de genes de CRISPR-Cas9 y el gen Nix se lograría transformar a las hembras succionadoras de sangre en inofensivos machos, y así impedir la expansión de enfermedades.
+
+“Al combinar estrategias de manejo de genes con la reasignación del sexo, un pequeño número de machos liberados podría dar lugar a una oleada de generaciones de solo machos, lo que permitiría la eliminación definitiva del vector y, por tanto, el fin de la propagación de agentes causantes de enfermedades”, aclara a Sinc el experto.
+
+Aunque los científicos ya están probando estas técnicas, Adelman confiesa que aún se necesitan más experimentos en laboratorio antes de aplicar estos sistemas y saber cuánto tiempo se tardaría en tener una población inofensiva de mosquitos. Pero “es definitivamente posible”, zanja.
+
+Sin embargo, a las preocupaciones éticas y de seguridad que generan estas prácticas –como la liberación accidental de hembras durante las pruebas–, se unen otras dudas. Los científicos aún no tienen claro cómo el gen Nix controla la determinación sexual en los mosquitos y si estos factores genéticos se conservan entre especies que transmiten diferentes enfermedades. Además, la efectividad y estabilidad a largo plazo del sistema CRISPR-Cas9 en los mosquitos siguen siendo desconocidas.
+
+Editados? xDD ¿No será "tuneados"? Jaja
+Por favor, no escriban como paletos, que para un portal de divulgación científica con un poquito de nivel que hay en español... "Modificados" o "manipulados" son los términos apropiados (recordemos que apropiado y aceptado por la RAE son cosas cada día más diferentes, por desgracia). Un mal uso del idioma hace que en vez de centrarnos en la noticia, nos chirríe la vista y el oído interior y se eche a perder un poco el artculo. Es una pena.
+
+Saludos.
+
+Responder a este comentario
+
+Jaime Poblete Veas |20. febrero 2016 11:27:01
+
+Por los años 60 o 70 del siglo pasado, para mantener a raya los mosquitos que se incuban en las aguas detenidas o de flujo lento, desde Argentina, se introdujo en Chile una variante del pez Poecilia Reticulata ("primohermano" sino "hermano pobre" del Guppy) llamado Gambusia. Pues, al menos de la zona central al sur - en muchos grandes charcos, lagunillas, lagunas, lagos y esteros y ríos en que se posan aguas lentas - se les ve "pululando" por sus orillas y cercanas a la superficie. Quizás ahora podríamos devolver la mano a pueblos que la están pasando mal por el Zika.
+Y sé de ello, porque soy aficionado al acuarismo, teniendo un pequeño acuario (20 litros) en que nadan Guppies, que proliferan rápidamente, aun cuando no hago mucho por proteger las crías de los peces más grandes. Es más; mi suegro recolecta agua de lluvias en tambores (para regar el resto de su sitio, en épocas más secas); allí "anidan" zancudos, dando lugar a larvas y crías. Cuando puedo, entonces, recolecto larvas y se las doy... "caviar", "se las hacen chupete", un golpe proteínico de primera para mis "mascotas".
+
+Responder a este comentario
+
+M.Guillermo Garcia B |22. febrero 2016 09:47:02
+
+Aqui en Colombia el Dr Ivan Darío Velez de la Universidad de Antioquia,está trabajando un sistema mucho mas económico y está demostrando ser efectivo,inocular en las colonias de mosquitos la bacteria wolbaquia,la cual impide el desarrollo del virus y se trasmite a sus desendientes

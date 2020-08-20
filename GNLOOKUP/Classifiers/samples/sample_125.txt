@@ -1,0 +1,76 @@
+10 claves para entender la relatividad general
+A veces no es sencillo explicarla, pero cambió la forma de mirar y entender el universo y considerada una descripción de cómo funciona la gravedad, sus implicaciones no se limitan a grandes masas y altas velocidades sino a la vida diaria en el planeta.
+
+La Teoría General de la relatividad cumple 100 años hoy, desde cuando fue presentada en una serie de conferencias en Berlín, siendo considerada uno de los mayores logros del intelecto humano.
+
+Ignacio Ferrín, astrónomo, doctor en Física y docente en la Universidad de Antioquia trata de resumirla, para que incluso la entiendan niños pero no lo ve fácil:
+
+“Lo que Albert Einstein descubrió es que a medida que la velocidad de un observador aumenta, el tiempo pasa más lento y la masa del objeto también aumenta. Adicionalmente descubrió que la fuerza de la gravitación puede ser descrita como una deformación geométrica del espacio”. No es fácil de digerir, precisa.
+
+Pero se pueden explicar algunos de sus conceptos.
+
+Einstein describió la gravedad como la curvatura del espacio-tiempo (añadió una cuarta dimensión), que representa cómo se comporta la gravedad en respuesta a la materia en el espacio-tiempo. Es decir, la gravedad no es una fuerza sino una consecuencia.
+
+Es como una sábana estirada, asida por los extremos. Cuando un objeto cae en ella, la deforma. Como el espacio-tiempo es curvo, los objetos que se mueven siguen una línea derecha a lo largo de la curva, lo que explica las órbitas de los planetas alrededor de la estrella: esa curvatura es lo que atrae los planetas al Sol.
+
+Con su teoría resolvió un problema que la teoría de Newton no: que nada puede viajar más rápido que la luz.
+
+También predijo cosas no descubiertas aún como los agujeros de gusano. Algo que predijo fue observado años después: los agujeros negros con tal gravedad que nada en esencia puede escapar.
+
+“La teoría de la relatividad general cambió por completo nuestra mirada al universo”, según Lyman Page, de la Universidad de Princeton, donde Einstein fue profesor.
+
+Además la famosa fórmula E= m.c2 implica que la energía de un objeto que se mueve aumenta su masa, efecto apreciable a velocidades cercanas a la de la luz. La ecuació demostró que la energía y la materia son la misma cosa en dos estados diferentes, explica Diego Torres, profesor de la Nacional.
+
+A altísima velocidad el espacio y el tiempo se encogen o estiran. Con mayor velocidad más despacio va el tiempo y las cosas se encogen; y si alguien se aleja de la Tierra en una nave se debilita la influencia de la gravedad terrestre y el tiempo pasa más rápido. Un reloj en la Tierra se mueve más lento que otro en órbita.
+
+La cantidad de tiempo más lento es insignificante, pero suficiente para ajustar a precisión los GPS, que trabajan mediante alta concordancia del tiempo de satélites en órbita e instrumentos en la superficie.
+
+Las claves
+
+Jorge Iván Zuluaga, físico y astrónomo de la Universidad de Antioquia resume la esencia de la Teoría en 10 puntos:
+
+“Como las listas son un método rápido para comprimir y organizar el conocimiento, les ofrezco 10 puntos básicos sin los cuáles no podría entenderse la relatividad y su importancia.
+
+No todo en la vida es relativo
+
+La relatividad no trata sobre lo que es “relativo”. Al contrario; Einstein se devanó los sesos por más de 10 años entre 1905 y 1915, para encontrar lo que no era relativo; es decir las cosas, cantidades, propiedades del mundo que no cambiaban dependiendo del que las viera.
+
+Leyes para todos los observadores
+
+La primera cosa que Einstein dijo que no era relativa eran las leyes de la naturaleza. ¿Cómo iban a serlo? Parece muy obvio, pero les tengo noticias: las teorías físicas que estaban en boga en su tiempo cambiaban si te montabas en un tren. ¡Plop! Este hecho básico fue el que motivó a Einstein a hacer lo suyo: buscar teorías que sí fueran las mismas para todos los observadores del universo. Y sí que lo hizo.
+
+Aparece la cuarta dimensión
+
+El primer descubrimiento con el que se topó buscando teorías universalmente válidas, fue que vivimos en un mundo de 4 dimensiones y no de 3. Ese vaso que tiene en la mesa y que parece un objeto volumétrico, de 3 dimensiones, no lo es; en realidad es como un “gusano” de 4 dimensiones y usted solo está viendo una parte de él (una sección). Es decir, cuando usted se come una rebanada de chorizo, esa no es toda la carne que hay.
+
+¿Qué es lo relativo entonces?
+
+Las propiedades “objetivas” de los objetos, aquellas son las mismas para todos, son las propiedades en 4 dimensiones: la longitud en 4 dimensiones, el volumen en 4 dimensiones, la fuerza en 4 dimensiones, etc. Cuando sacamos partes de esas propiedades (el volumen en 3 dimensiones, la fuerza en 3 dimensiones, etc.) aparecen cosas extrañas. Mi talla de zapatos, por ejemplo, es solo una parte de mi talla en 4 dimensiones. Todas las personas del mundo deben coincidir con mi talla en 4 dimensiones, pero mi talla en 3 dimensiones depende del observador. Para mí es un 40 y para alguien que vaya en un avión y mida desde la ventana mis zapatos puede ser un 35. ¡¿Qué?! Ese es el costo de ver el mundo por “secciones”. Eso es relatividad.
+
+El tiempo es una medida y una dimensión
+
+El tiempo es una de esas 4 dimensiones. Es una dimensión diferente, pero al fin y al cabo, una dimensión. Yo tengo un tamaño también en el tiempo. Ahora, por ejemplo, mido 40 años. Pero otra vez, decir mi tamaño en el tiempo es contar una parte de la historia. Y como sucede con las historias contadas por partes, dependen del observador: para mí son 40 años, pero para un astronauta mi tamaño en el tiempo, podrían ser 39.5. Es relatividad.
+
+El movimiento acorta el tiempo
+
+Las cosas, un balón, una bola de billar, una persona, etc., se mueven en 4 dimensiones: en el espacio y en el tiempo. Cuando nadie las está molestando, lo hacen siguiendo los caminos, póngame atención, más largos. Otra vez, ¡plop! Quedarse quieto en una silla es la forma más “larga” de envejecer. Por eso es que si un hermano tuyo se montara en una nave espacial y viajara a un lugar lejano, al regresar (y después de hacer mucho esfuerzo) volvería más joven (habría recorrido una distancia menor en el espacio-tiempo). ¿Raro, no? Eso es relatividad.
+
+la gravedad no es una fuerza de la tierra
+
+Cuando le pones gravedad a la “ensalada”, las cosas se vuelven más curiosas. En particular los caminos más largos en el espacio-tiempo (los de los perezosos) ya no son los mismos. Quedarse sentado en una silla en la superficie de un planeta con gravedad, es seguir el camino más corto. En cambio si te tiras un clavado desde un acantilado, estás recorriendo el camino más largo. Caer es seguir el camino del perezoso. La gravedad no es una fuerza que hace la Tierra sobre nosotros. Es la manifestación del deseo de las cosas por moverse en el espacio-tiempo retorcido por la Tierra siguiendo los caminos más largos. ¡Perezosas! Esta idea es la que este mes cumple 100 años. Se la llama Teoría General de la Relatividad o para los amigos “Gravedad a la Einstein”.
+
+La gravedad ya no es un misterio
+
+¿Y si no hubiéramos inventado la relatividad qué? Primero, todavía estaríamos pensando en la gravedad como un fenómeno misterioso. Telepatía entre la Tierra y los objetos pegados a ella. Segundo, nos estaríamos perdiendo de saber que vivimos en un Universo más grande, uno de 4 dimensiones. Pero si vivir sin esta información no les choca ¿qué les parece vivir sin baterías, celulares o GPS? Todas estas invenciones han necesitado la relatividad, no tanto para inventarse, sino ¡para que funcionen correctamente!
+
+todos estamos sujetos a la relatividad
+
+Decir que la relatividad no es cercana a nuestra experiencia es como decir que el espacio, el tiempo y la caída libre, son fenómenos científicos lejanos a la experiencia. ¡Por favor! La relatividad no es una teoría que se inventó solo para explicar fenómenos extraños. La relatividad es una nueva manera de pensar fenómenos cotidianos. Así, por ejemplo, la próxima vez que un martillo le caiga en el dedo chiquito del pie piense en la relatividad y ya verá.
+
+la relatividad no tiene sentido común
+
+10. Si todo lo anterior te ha parecido muy obvio, e incluso bostezaste un par de veces mientras leías, tal vez no entendiste casi nada. La Relatividad es tan extraña y novedosa que no hay casi nada en nuestro sentido común que se le parezca. A eso se lo llama “no entender”. ¿Estamos condenados entonces a nunca entenderla? Los adultos tal vez sí (tenemos demasiados prejuicios), pero los niños están cultivando un sentido común nuevecito. Es a ellos a los que se les debe explicar para que crezcan como adultos que bostezan leyendo estos 10 puntos.
+
+¡Feliz cumpleaños Teoría General de la Relatividad!”.
+
+Albert Einstein nació en Ulm, imperio alemán, en 1879 y falleció en Princeton, Estados Unidos en 1955. Publicó la Teoría de la Relatividad Especial cuando era empleado de la oficina de patentes de Berna, Suiza.

@@ -1,0 +1,74 @@
+Detectan arrugas en el espacio-tiempo
+Cuando en la Tierra no se habían formado siquiera los primeros organismos multicelulares, en un lugar del espacio dos agujeros negros colisionaron y produjeron una poderosa explosión.
+
+Una explosión que duró unos 20 milisegundos con un brillo 50 veces mayor a todas las estrellas del universo reunidas, la mayor fuente de energía conocida salvo el Big Bang.
+
+En un lugar situado hoy al sur de la Tierra, hacia las Nubes de Magallanes, en un punto exacto no precisado, se fusionaron esos agujeros negros con 29 y hasta 36 veces la masa solar y en una fracción de segundo se liberó el equivalente a 3 masas solares en la forma de ondas gravitacionales, quedando un gran agujero con 62 masas del Sol.
+
+Su detección se hizo el 14 de septiembre del año pasado a las 5:51 de la mañana, primero en el detector en Livingston y 7 milisegundos después en el de Hanford, ambos en E.U., a 3.000 kilómetros de distancia, concordando con lo esperado.
+
+Predichas por la Teoría de la Relatividad de Albert Einstein hace 100 años y descubiertas en 1974, nunca habían sido detectadas.
+
+Luego de cinco décadas de intensa búsqueda, en particular a partir de 2002 con la puesta en marcha del proyecto Ligo, al fin hubo resultados que suscitan el entusiasmo del mundo científico: se abre una nueva ventana de exploración del universo.
+
+Ligo es el Laser Interferometer Gravitational-Wave Observatory. En el trabajo participaron más de 1.000 científicos de 15 países y 90 universidades. Tras la detección requirieron cinco meses para confirmar que no se tratara de una falsa alarma.
+
+Solo para descartar la posibilidad de que alguien hubiera impostado una señal tardaron cerca de un mes, según uno de los voceros.
+
+La detección es más importante que el bosón de Higgs, para algunos científicos. “El mayor acontecimiento científico de este siglo”, en palabras de James Hough, físico de Glasgow y miembro del equipo Ligo citado por The Telegraph.
+
+Para France Córdova, directora de la Fundación Nacional de Ciencias de Estados Unidos que financió el proyecto de 1.000 millones de dólares, la detección equivale al avance logrado por Galileo hace 400 años con el telescopio, por las posibilidades que ofrece.
+
+No es solo esa la excitación que sienten los investigadores: la detección confirma la existencia de los agujeros negros y las colisiones entre ellos ratificando las predicciones de la Teoría, explicó en su blog el astrofísico Jorge Iván Zuluaga, de la Universidad de Antioquia.
+
+El reporte de la detección, que se hizo mediante conferencias de prensa simultáneas en diferentes lugares, fue presentado ayer mismo en la revista Physical Review Letters en un artículo que demandó 3 páginas para listar los autores y 2,5 más para mostrar sus sitios de trabajo.
+
+¿Pero qué son?
+
+La Teoría General de la Relatividad dice que un par de agujeros negros que orbitan uno al otro pierden energía a través de la emisión de ondas, haciendo que cada vez se acerquen más, un proceso de cientos de millones de años. Con el tiempo se mueven más rápido hasta fusionarse. En la fracción final colisionan casi a la mitad de la velocidad de la luz, formando un agujero más masivo y convirtiendo parte de la masa en energía, emitida como ondas que contraen el espacio-tiempo hacia un lado y lo estiran al otro, detectadas por Ligo.
+
+La explosión generada por los agujeros creó una “violenta tormenta en la fábrica del espacio-tiempo”, explicó Kip Thorne, uno de los reconocidos científicos del proyecto.
+
+Estas ondulaciones, arrugas del espacio-tiempo, se propagan a la velocidad de la luz y tienen su huella característica.
+
+Son tan débiles que se requiere una tecnología de alta precisión para detectarlas.
+
+Tras predecirlas en 1916, 20 años más tarde Einstein dudó de su existencia.
+
+Fueron ‘vistas’ en la frecuencia de 35 ciclos por segundo (Hertz) y aumentó a 250 antes de desaparecer 0,25 segundos después.
+
+La señal pasó luego, a los 0,007 segundos, por el otro detector coincidiendo con el tiempo preciso de una onda cruzando a la velocidad de la luz. Gabriela González, física y vocera de Ligo, informó la significancia estadística usada para confirmar la detección es muy alta.
+
+Al cruzar la onda estiró el espacio una parte en 1021, haciendo que toda la Tierra se expandiera y contrajera 1/100.000 de un nanómetro, cerca del ancho de un núcleo atómico, un efecto pequeñísimo pero medible gracias a la sensibilidad de los detectores Ligo, una prueba al máximo rigor de la teoría de Einstein.
+
+La onda provino de los dos agujeros que estaban separados solo por 260 kilómetros, orbitando en espiral hasta fusionarse por la colisión, un dato obtenido con las simulaciones en computador que se hicieron para analizar las señales recibidas.
+
+Es además la primera vez que se prueba la Teoría en un medio de altísima gravitación, indicó Rainer Weiss, uno de los pioneros que ideó Ligo en los años 80 junto a Ronald Drever y Thorne.
+
+Las ondas contienen entonces la información del evento. Zuluaga lo ilustró así:
+
+“A todos los fenómenos en los que información pura (no materia) viaja de un lugar a otro a través de un ‘medio’ (materia, fuerzas o espacio-tiempo) y satisface ciertas propiedades matemáticas, lo llamamos una onda (o chisme físico, para los amigos). A los chismes de espacio-tiempo las llamamos ‘ondas gravitacionales’ (a mí me gusta más ‘ondas de espacio-tiempo’)”.
+
+Y recibir esa información abre una gran ventana hacia otra astronomía, la del campo de las ondas gravitacionales, en palabras de González, con lo cual se podrán encontrar eventos y fenómenos oscuros todavía para la ciencia.
+
+El universo parece calmado cuando es observado en luz visible, pero en la longitud de onda de radio es violento.
+
+Cuando entren en operación otros detectores en distintos países, como en la India, que operará la próxima década, se podrá afinar la puntería y encontrar el gran agujero del cual provino la onda.
+
+Pero mientras tanto la observación continuará de forma que podrían detectarse otras. Una probable segunda señal se tuvo en diciembre, pero ayer no se dieron más detalles de verificación. Ligo se detuvo en enero y operará de nuevo en julio, pero aún se estudian los datos de la temporada 2015.
+
+A finales de año, además, deberá funcionar el detector italiano Virgo con brazos de 3 kilómetros, aumentando las posibilidades.
+
+Las ondas revolotean por todo el universo.
+
+Ya se conocían
+
+Su existencia fue demostrada por Joseph Taylor y Rusell Hulse, quienes en 1974 descubrieron un sistema binario (dos cuerpos) compuesto por un par de estrellas de neutrones, denominados pulsares, orbitando una alrededor de la otra en estrecha relación.
+
+En 1982 Taylor y Joel Weisberg hallaron que la órbita de una se estaba encogiendo por la liberación de energía en la forma de ondas gravitacionales. Por eso Taylor recibió el Nobel de Física en 1993.
+
+Zuluaga recordó que se basaron en la primera estrella de neutrones descubierta, utilizando el observatorio de Arecibo en Puerto Rico.
+
+Se resuelve el último gran acertijo de la Teoría de la Relatividad, que ha sorteado toda clase de pruebas confirmando las predicciones que formula, aunque para los físicos algún día mostrará fisuras que den paso a una teoría que explique fenómenos hoy poco claros.
+
+Pero 1.300 millones de años después de surgir, unas ondas pasaron por la Tierra y dejaron su huella.

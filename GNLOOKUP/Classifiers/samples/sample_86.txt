@@ -1,0 +1,26 @@
+Patentan un dispositivo autónomo para medir la presión plantar e identificar el arco del pie
+La Universidad de Antioquia (UDEA) en Colombia ha patentado un dispositivo autónomo para la medición de presión plantar e identificación del arco del pie. Se trata de una plataforma —que se asemeja a una pesa médica—, sobre la cual las personas pueden pararse. Este dispositivo les indica a sus usuarios qué plantillas para zapatos deben usar, de acuerdo con el nivel de presión que se genera en sus pies. “Permite saber qué parte del pie apoyas más y en cuál pie te apoyas más. Es muy común para corregir problemas de posturas”, explicó Mauricio Hernández, director del Grupo de Investigación en Bioinstrumentación e Ingeniería Clínica —Gibic. 
+
+Aunque en Colombia los dispositivos de este tipo no se usan masivamente, salvo por deportólogos y otros profesionales, en Estados Unidos y en países desarrollados, aparatos como el Iplate son bastante comunes. Los clientes van al almacén y allí una persona se encarga de manipular el dispositivo para indicarle al usuario qué plantilla debe comprar.
+
+Ese fue justamente el reto que enfrentaron los investigadores de la Universidad: desarrollar un sistema autónomo para que el cliente, sin necesidad de otra persona, simplemente se pusiera de pie sobre el aparato y éste, por sí mismo, le indicara qué plantilla le convenía más. Así surgió el Iplate.
+
+Tanto el desarrollo, como la patente, es otra buena nota que consigue el Comité Universidad Empresa Estado —CUEE—. Hasta ese grupo de líderes universitarios, gubernamentales y empresariales, llegó el gerente de Ilimitada, Juan José Mejía. Su idea era que en los laboratorios de la Universidad de Antioquia se desarrollara un dispositivo con las características señaladas, que pudiera ser comercializado en Estados Unidos.
+
+El Programa de Gestión Tecnológica de la Universidad de Antioquia hizo el puente entre empresa e investigadores del Gibic, que hace parte de la Facultad de Ingeniería. En ese entonces, el grupo vinculó al estudiante de Bioingeniería Jonathan Gallego —quien hoy está terminando una maestría en Alemania—, para trabajar en el asunto.
+
+El primer obstáculo fue el sensor con el que se mide la presión. La mayoría de los que existen en el mercado son costosos, así que el grupo hizo uno propio. “Porque lo que nos pedían era que el sistema fuera barato, pues no tenía sentido que costara más que el que ya estaba en el mercado”, advirtió Hernández.
+
+El grupo de investigación también se valió de ensayos previos con un grupo de personas para ajustar adecuadamente el dispositivo. "Pi pi piiiii", es el sonido que emite el aparato una vez la persona se para sobre él, esos pitidos de alarma indican el momento en el que culmina la medición automática y da a conocer el resultado.
+
+El Iplate funciona con baterías y también cuenta con un sistema electrónico para conectarlo a un computador, de tal forma que pueda verse la distribución de presión del pie en una pantalla. Esta opción es para análisis más rigurosos, de tipo médico o de entrenamiento deportivo.
+
+Por lo menos 15 de estos equipos ya se han comercializado en Estados Unidos, con un costo cercano a los 4 mil dólares. “Obviamente la Universidad no es una empresa. Lo vendimos porque queríamos comprobar que era viable comercializarlo y nos fue bien. Sabemos que una producción masiva puede reducir ese valor y ya que tenemos una patente podemos negociar con una compañía que quiera hacerlo”, dijo Hernández.
+
+Con la nueva patente, la propiedad patrimonial del Iplate es de la Universidad de Antioquia y de Ilimitada S.A. La propiedad intelectual es de los inventores, es decir de Juan Diego Lemus, también profesor de Bioingeniería de la Alma Máter; de Jonathan Gallego; y de Hernández. 
+
+Para este grupo de investigación, el logro de la patente es una puerta que se abre a la consolidación de otros desarrollos en los que han venido trabajando. Como propietarios del sensor, están facultados para utilizarlo en otros dispositivos que requieran mediciones de presión.
+
+En ese campo hay todo un escenario por desarrollar. Por ejemplo, es posible construir corredores de presión para analizar la marcha de las personas. “Desde el punto de vista biomecánico se puede analizar cómo es el desplazamiento de la persona. Eso es útil para el diseño de pisos, escalas, y rampas. También para procesos de rehabilitación de pacientes con lesiones", explicó el investigador.
+
+Para ello, en este momento los investigadores estás trabajando en un sistema que es ensamblable, a partir del aprendizaje del Iplate. De otra parte, desarrollarán un sistema flexible que se puede poner dentro del zapato, colchones y sillas, para estudios ergonómicos. “Si una persona tiene problemas de columna o espalda y son debido a una mala postura, podemos analizar a qué corresponden con precisión. Ese es el camino que hemos seguido a partir del Iplate”. (Fuente: UDEA/DICYT)

@@ -1,0 +1,21 @@
+Científicos implantan falsos olores en cerebro de ratones
+19 Jun 2020 - 10:17 a. m.
+“Nuestros resultados identifican por primera vez un código de cómo el cerebro convierte la información sensorial en percepción de algo, en este caso un olor”, explicó uno de los investigadores.
+
+La nariz humana tiene unos 350 tipos diferentes de receptores de olor, mientras que los ratones, cuyo sentido del olfato es mucho más especializado, cuentan con más de 1,200. Independientemente de la capacidad de cada mamífero para guiarse en este mundo de acuerdo con las señales químicas que llegan hasta su nariz, entender cómo viaja un olor hasta la profundidad de nuestro cerebro y cómo es procesado allí ha intrigado a los científicos por décadas. 
+
+En un experimento que suena a ciencia ficción, investigadores de la Escuela de Medicina de la Universidad de Nueva York anunciaron haber sido capaces de implantar un olor que no existe, es decir una señal eléctrica que no se corresponda con ningún olor en la naturaleza, en el cerebro de un ratón. 
+
+El falso olor codificado en una señal eléctrica específica le permitió a los científicos manipular el tiempo y el orden de la señalización nerviosa y así identificar con mayor facilidad qué cambios fueron más importantes para la capacidad de los ratones para identificar con precisión el olor sintético.
+
+“Decodificar cómo el cerebro distingue los olores es complicado, en parte, porque a diferencia de otros sentidos como la visión, todavía no conocemos los aspectos más importantes de los olores individuales”, comentó a través de un comunicado el investigador principal del estudio Edmund Chong, estudiante de doctorado de dicha universidad. 
+
+“En el reconocimiento facial, por ejemplo, el cerebro puede reconocer a las personas basándose en señales visuales, como los ojos, incluso sin ver la nariz y los oídos de alguien”, explció Chong, “pero estas características distintivas, según lo registrado por el cerebro, aún no se han encontrado para cada olor”.Los resultados de su trabajo acaban de ser publicados en la revista Science. 
+
+Estudios anteriores ya habían demostrado que las moléculas en el aire vinculadas a los olores activan las células receptoras que recubren la nariz para enviar desde ahí señales eléctricas a través de una red nerviosa que termina en una zona de la corteza cerebral especializada en percibir y reaccionar ante olores.
+
+Para superar la dificultad que entraña estudiar la mezcla de señales eléctricas asociadas al olfato, los investigadores diseñaron experimentos basados en la disponibilidad de ratones genéticamente modificados por otro laboratorio para que sus células cerebrales pudieran activarse al iluminarlos, una técnica llamada optogenética. Los ratones fueron entrenados para activar una palanca dependiendo del estímulo específico que recibían sobre sus cerebros. 
+
+“El control estricto en su modelo sobre cuándo, cuántos y qué receptores y glomérulos se activaron en los ratones permitió al equipo examinar muchas variables e identificar qué características de olor destacaban”, señala la comunicación. 
+
+Dmitry Rinberg, profesor asociado del Departamento de Neurociencia y Fisiología de la Universidad de Nueva York y miembro de su Instituto de Neurociencia, comentó que los “resultados identifican por primera vez un código de cómo el cerebro convierte la información sensorial en percepción de algo, en este caso un olor. Esto nos acerca a responder la larga pregunta en nuestro campo de cómo el cerebro extrae información sensorial para evocar el comportamiento”.

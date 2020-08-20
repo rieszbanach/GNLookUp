@@ -1,0 +1,12 @@
+En Antioquia entrenan perros que podrían detectar casos de covid-19
+Investigadores adelantan el proceso que empieza su fase con personas aliviadas y asintomáticas.
+Investigadores de la Universidad de Antioquia, liderados por el profesor Ómar Vesga Meneses, director del Grupo Investigador de Problemas en Enfermedades Infecciosas (GRIPE), de la Facultad de Medicina, comenzaron a usar perros entrenados para identificar contagiados con la enfermedad.
+Según informaron desde la institución universitaria, después de siete semanas de entrenamiento en los cuales los caninos se sometieron a 92 experimentos y evaluaron un total de 9.200 muestras, fueron capaz de diferenciar las negativas de los positivas. 
+
+Fueron seis los perros que en una pista acondicionada y acompañados por sus entrenadores, recorrieron y olfatearon las muestras que estaban en recipientes herméticos idénticos, y quienes aprendieron a detectar el olor del SARS-CoV-2.
+
+"Nuestros seis perros lograron, independientemente y como grupo, muy alta sensibilidad, especificidad, valores predictivos, precisión y razón de probabilidad, con intervalos de confianza muy estrechos. La métrica más alta fue la del valor predictivo negativo, lo que indica que -con una prevalencia de enfermedad del 7,6%- el 99,9% de las muestras señaladas como negativas por los perros no portaban el virus", detalló el profesor Vesga. 
+
+La meta de este grupo es crear un programa de entrenamiento casero para que muchas mascotas puedan contribuir a la detección de casos de covid-19, para que los infectados se aíslen hasta que se recuperen y no contagien a otras personas.
+
+Además del grupo GRIPE, en la investigación está el Hospital San Vicente Fundación, la empresa Colina K-9, de la Universidad Nacional de Colombia, sede Medellín, y la Universidad de Wisconsin-Madison, de Estados Unidos.

@@ -1,0 +1,31 @@
+Universidad de Antioquia estrena su nueva página web
+Es un portal con un diseño fresco y moderno, con contenidos orientados hacia el usuario.
+
+Por: DAVID ALEJANDRO MERCADO 08:06 a.m.
+Con un atractivo diseño, un menú de fácil navegación y una plataforma tecnológica distinta, soportada en 13 servidores, la Universidad de Antioquia estrenó su nuevo portal web.
+
+No es una novedad la importancia del internet a la hora de acceder a la información, y las tabletas digitales y celulares poco a poco van siendo más utilizadas para la navegación. Y esa es la principal novedad del nuevo portal, que permite adaptarse a los diferentes dispositivos para facilitar el acceso.
+
+A esto se le denomina ‘responsive design’ o diseño adaptativo. En eso se basa esa nueva versión del Portal Universitario, que además contará con una plataforma tecnológica más robusta que la actual, pensada en el usuario, pues es adaptable a dispositivos móviles pues cuenta con una nueva herramienta de publicación de contenidos para enterarse más fácil de las novedades de la Alma Mater gracias a la reducción del número de clics para acceder a los contenidos.
+
+“Vamos a tener un portal con un diseño fresco y moderno, con unos contenidos más organizados, fáciles de encontrar y orientados hacia el usuario; queremos presentar la información de manera más ágil y cercana”, apuntó Luz Adriana Ruiz Marín, coordinadora de la estrategia de Comunicación Digital de la Universidad de Antioquia.
+Y es que el ciclo del portal actual ha terminado tras ser implementado entre 2007 y 2008, con el objetivo inicial de centralizar un cúmulo de páginas que brindaban contenidos estáticos y que estaban diseñadas con una arquitectura de navegación simple.
+
+De otro lado, Adilia Lopera, coordinadora de Gestión Informática indicó que las máquinas anteriores no eran capaces de balancear todas las peticiones que llegaban y por eso se caían los servidores. “El nuevo sistema es capaz de redireccionarlas a los servidores disponibles”, añadió Lopera.
+
+Con ese panorama, para los usuarios era muy difícil acceder o navegar, por lo que la percepción del servicio actual era insatisfactoria. Y ahora que lo hacen, muchos usuarios han manifestado su apoyo, pero algunos aún guardan reservas.
+
+"Ojalá esta vez sí funcione. Era una vergüenza tener un portal y todo lo demás relacionado con los sistemas de tan baja y mala calidad. Era muy necesario este cambio" opinó Hernando Muñoz en redes sociales.
+
+La nueva plataforma está dimensionada para los usuarios que tendrá la Universidad en cinco años, lo cual es un tiempo considerable, teniendo en cuenta que los procesos de innovación tecnológica en comunicación digital son cada vez más acelerados.
+
+Con del desarrollo de este proyecto se espera aumentar el nivel de visibilidad de la Universidad de Antioquia en la red, que ofrezca opciones en la integración de aplicativos y de bases de datos, y que garanticen una excelente navegación para los usuarios.
+Otros proyectos web
+
+La UdeA también realizará el lanzamiento de dos proyectos asociados. El primero se llama Memoria, Universidad de Antioquia, protagonista y testigo, una multimedia que pretende mostrar cómo la Universidad se ha convertido en una fuente de conocimiento para la sociedad, a través de múltiples voces que reconstruyen su trayectoria, que comienza en 1780, pasa por su fundación en 1803 y termina en 2015.
+
+Con más de doscientos años de historia, son muchos los personajes y anécdotas que permanecen en la Memoria de la Universidad. Este espacio quiere recuperar ese legado que ha hecho de la Alma Mater, el proyecto cultural, social y científico más importante del departamento.
+
+También se compartirá la multimedia ‘Descubre, UdeA con los niños’, un proyecto multimedia en el que el público infantil recorrerá la Universidad junto a un personaje animado llamado Alma, una curiosa niña de seis años que sueña con estudiar en la U.
+
+Con esta propuesta se busca familiarizar a los niños con la UdeA, promoviendo en ellos el sentido de pertenencia, valores y principios institucionales. 

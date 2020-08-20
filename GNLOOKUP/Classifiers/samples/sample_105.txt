@@ -1,0 +1,48 @@
+Una bacteria benigna es capaz de bloquear la transmisión del Zika en los mosquitos
+Bacterias benignas bloquean la transmision de los mosquitos del virus
+JEFF MILLER / UW-MADISON
+   MADRID, 4 Jul. (EUROPA PRESS) -
+
+   Un total de 39 países y territorios de las Américas se han visto afectados por la epidemia de Zika y se espera que al menos 4 millones de personas estén infectadas a finales de año. Los científicos creen que el virus es responsable de una serie de defectos cerebrales en los fetos en desarrollo, como microcefalia, y ha contribuido a un aumento en los casos de una patología neurológica llamada síndrome de Guillain-Barré.
+
+    Todavía no hay ninguna vacuna aprobada contra el virus Zika o medicamentos antivirales, y las estrategias de control de los mosquitos en curso no han sido suficientes para contener la propagación del virus.
+
+   Investigadores de la Universidad de Wisconsin-Madison, en Estados Unidos, han confirmado que una bacteria benigna llamada 'Wolbachia pipientis' puede bloquear completamente la transmisión del virus Zika en 'Aedes aegypti', la especie de mosquito responsable de transmitir el virus a los seres humanos.
+
+   Matthew Aliota, un científico de la Escuela de Medicina Veterinaria (SVM, por sus siglas en inglés) de la Universidad de Wisconsin-Madison y el primer autor del trabajo --publicado este viernes en 'Scientific Reports'-- dice que las bacterias podrían ser un "novedoso mecanismo de control biológico", ayudando a los esfuerzos por detener la propagación del virus Zika.
+
+   Investigadores dirigidos por Jorge Osorio, profesor de Ciencias Patobiológicas de la Universidad de Wisconsin-Madison, y Scott O'Neill, del Programa de Eliminación del Dengue (EDP, por sus silgas en inglés) y la Universidad de Monash en Melbourne, Australia, ya están liberando mosquitos que albergan la bacteria 'Wolbachia' en estudios piloto en Colombia, Brasil, Australia, Vietnam e Indonesia para ayudar a controlar la propagación del virus del dengue, un trabajo financiado por la Fundación Bill y Melinda Gates.
+
+   Una característica importante de la bacteria Wolbachia es que es auto-sostenible, por lo que resulta un enfoque de muy bajo costo para el control de enfermedades virales transmitidas por mosquitos que están afectando a muchos países tropicales de todo el mundo. "En dos de nuestros sitios de estudio iniciales en Australia, aproximadamente el 90 por ciento de los mosquitos siguen estando infectados con Wolbachia después del lanzamiento inicial hace más de seis años", explica O'Neill.
+
+   El EDP ha recibido ya el respaldo adicional del Grupo Asesor de Control de Vectores de la Organización Mundial de la Salud para realizar más estudios piloto y ampliarlo en las zonas endémicas. Se puede encontrar Wolbachia en hasta el 60 por ciento de los insectos de todo el mundo, incluyendo las mariposas y las abejas. Aunque no están normalmente en el mosquito 'Aedes aegypti', la especie que también transmite el dengue, el chikungunya y el virus de la fiebre amarilla, O'Neill descubrió en la década de 1990 que podría introducirse Wolbachia en el mosquito en el laboratorio, lo que impediría que los mosquitos transmitieran el virus del dengue.
+
+   El virus Zika pertenece a la misma familia que el virus del dengue y Aliota y Osorio --con los coautores Stephen Penaido, de SVM, e Iván Darío Vélez, de la Universidad de Antioquia en Medellín, Colombia--se preguntaron si la bacteria Wolbachia que albergan los mosquitos 'Aedes aegypti' puede ser también eficaz contra el virus Zika. También estaban interesados en analizar los mecanismos detrás de la infección por el virus Zika y la transmisión de los mosquitos.
+
+NI SE INFECTAN CON EL VIRUS NI LO TRANSMITEN
+
+   En el trabajo, el equipo infectó ratones con el virus Zika aislado originalmente de un paciente humano y dejaron a mosquitos de Medellín alimentarse de los roedores, dos o tres días después de que fueron infectados. Los mosquitos albergaban la misma cepa de la bacteria Wolbachia (llamada wMel) empleada en los estudios de campo o estaban libres de Wolbachia y los ratones presentaban niveles del virus en la sangre similares a los humanos infectados por el Zika.
+
+   Se permitió a un grupo adicional de mosquitos, de tipo salvaje e infectados con Wolbachia, alimentarse de una membrana que contiene sangre de oveja enriquecida con una alta concentración del virus Zika, por otros estudios de laboratorio estándar.
+
+   Cuatro, siete, 10 y 17 días después de que los mosquitos se alimentaran con sangre infectada por el virus Zika, los científicos les realizaron pruebas de infección, evaluaron si el virus se había difundido o extendido a otros tejidos en el mosquito y examinaron si el virus se dirigió a la saliva del mosquito, donde debe estar presente para transmitirse.
+
+   "El primer sitio de replicación de los arbovirus es el intestino medio del mosquito --describe Aliota--. Con el tiempo, sale del intestino medio y se extiende en la sangre a los tejidos secundarios y, finalmente, a las glándulas salivales, donde se replica más y finalmente se escupe".
+
+   Los investigadores encontraron que los mosquitos portadores de la bacteria Wolbachia eran menos propensos a infectarse con el virus Zika al alimentarse de sangre viral y los que estaban infectados no transmitiían el virus en su saliva.
+
+   "Hemos visto una reducción de la competencia vectorial de 'Aedes aegypti' con Wolbachia --dice Osorio, definida ésta como la capacidad intrínseca de un insecto para apoyar el desarrollo o la replicación de un patógeno como un virus y luego transmitirlo--. Los mosquitos con Wolbachia eran menos capaces de albergar el virus Zika, y a pesar de que se infecten con Zika, es en menor medida que los mosquitos de tipo salvaje".
+
+LA FUENTE DE INFECCIÓN, CLAVE PARA LOS NIVELES DEL VIRUS
+
+   También encontraron que el lugar en el que mosquitos consiguieron su comida de sangre --de ratones o la membrana de oveja- impactó en su estado de infección y transmisión, un hallazgo que tiene implicaciones para otros estudios de virus Zika basados en el laboratorio, según Aliota.
+
+   Aunque los ratones tenían una menor concentración de virus en su sangre que el contenido en la sangre de la membrana, los mosquitos que se alimentaron de los ratones fueron infectados a tasas más elevadas que aquellos que fueron alimentados con la membrana. Los niveles de virus hallados en los roedores también fueron más similares a los observados en las infecciones humanas.
+
+   Los mosquitos que adquirieron el virus Zika de los ratones que no contenían la bacteria Wolbachia también eran capaces de transmitir el virus en menos días y en menos tiempo que lo que han demostrado otros estudios. Además, los investigadores detectaron que puede ser suficiente un porcentaje relativamente bajo de Zika transmitido por los mosquitos para sostener un brote.
+
+   "Un sorprendentemente bajo porcentaje de mosquitos en realidad son capaces de transmitir el virus -advierte Aliota-- pero teniendo en cuenta el tamaño del brote y que creemos que los mosquitos son los conductores del brote, los resultados fueron algo inesperados. Sólo es para mostrar la cantidad de información que todavía tenemos que entender acerca de la biología básica de este virus".
+
+   El equipo también confirmó que la cepa de Wolbachia empleada no afecta a los mosquitos 'Aedes aegypti', lo cual es importante para el éxito de los estudios de campo. Una vez dentro de un mosquito, Wolbachia se transmite de madre a hijo, por lo que los mosquitos nacidos contendrán las bacterias y las incorporarán a la población silvestre.
+
+Se espera que con el EDP más de un 80 por ciento de los mosquitos 'Aedes aegypti' en las áreas de estudio alberguen Wolbachia. Según Osorio, los mosquitos portadores de la bacteria Wolbachia en el sitio de estudio en Medellín están cerca de llegar a ese número.

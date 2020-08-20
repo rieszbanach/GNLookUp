@@ -1,0 +1,52 @@
+Covid-19: Un colombiano podría tener la clave para una vacuna efectiva
+Un investigador guajiro de la Universidad de Antioquia, con doctorado en biología molecular en Alemania, lideró una investigación que podría dar las claves del comportamiento del virus.
+En manos de un investigador colombiano de la Universidad de Antioquia (UdeA) podría estar la clave para entender la forma como se comporta el coronavirus, base para una posible vacuna.
+
+De hecho, la información del experto podría ser el eslabón que faltaba en el seguimiento que muchos científicos le vienen dando a la enfermedad con el objetivo de diagnosticarla y combatirla mejor.
+
+Los hallazgos fueron presentados por el propio investigador colombiano Gustavo Adolfo Gámez de Armas —originario de Maicao, La Guajira— en una clase abierta del posgrado de microbiología en la UdeA.
+
+En la sesión realizada virtualmente este jueves por la noche, Gámez presentó los fundamentos científicos de lo que se conoce como el Protocolo Colombia: el procedimiento criollo ideado como alternativa para diagnosticar la covid-19 y que se encuentra actualmente en fase de validación por parte de las autoridades sanitarias colombianas.
+
+Él es científico colombiano Gustavo Gámez, profesor de la escuela de microbiología de la Universidad de Antioquia. Gámez encontró una relación entre el tipo de sangre de los pacientes de covid-19 y el comportamiento del virus.
+
+Para establecer este protocolo, el profesor Gámez y otros investigadores de la UdeA tuvieron que estudiar a profundidad las secuencias genéticas y proteicas del virus, con el fin de establecer el lugar exacto donde se debería “intervenir” para lograr pruebas diagnósticas más efectivas.
+
+La vacuna del coronavirus: ¿cómo va la búsqueda y los estudios?
+En el objetivo de detectar de SARS-CoV-2, virus de la covid-19, el nuevo Protocolo Colombia tiene como blanco una región del material genético que codifica para la proteína Spike, estructura por medio de la cual el virus se adhiere, infecta y empieza a reproducirse en las células humanas.
+
+Esta glicoproteína, además de cumplir con la función de adherir el coronavirus a las células del cuerpo contaminado, representa la estructura que hace a este virus distinto a los demás, por cuenta de dos rasgos específicos: la secuencia insertada “PRRA”, ubicada en las posiciones 681-684, y el aminoácido Q de la posición 498, ambas características anteriormente reportadas para dicha proteína Spike.
+
+Sobre ese par de sitios opera el Protocolo Colombia y eso lo hace muy efectivo en detectar el genoma viral, porque al ejecutar las pruebas en ese segmento específico entrega resultados prácticamente infalibles y a bajo costo sobre si alguien está infectado o no.
+
+¿Pero qué fue lo nuevo?
+El ejercicio para lograr un protocolo de detección más práctico, eficaz y económico para Colombia empezó a revelar nuevas pistas que le abrieron los ojos al investigador de la UdeA sobre cómo se comporta el virus y cómo se correlaciona con los grupos sanguíneos AB0.
+
+En ese segmento tan específico, se da una serie de particularidades que hasta el momento no habían sido tenidas en cuenta por otros investigadores sobre el SARS-CoV-2.
+
+Gámez encontró este camino observando no solo otros artículos científicos recientes sobre la covid-19, sino que tuvo la idea de consultar otros estudios y libros de hace 30 años con información relevante de la bioquímica y la genética del tipo de sangre en el desarrollo de enfermedades infecciosas.
+
+Eso le sirvió para ir en busca de lo que aún no había sido explicado acerca de este coronavirus: cómo bloquear el sistema de llave que tiene el virus para adherirse y abrir la cerradura del receptor, mecanismo que lleva a la infección.
+
+“Es conocido que estas proteínas deben unir azúcares a su superficie (glucosilación) para cumplir su función. Este proceso se lleva a cabo de dos maneras: a través de N- (nitrógeno de un amino), y a través de O- (oxígeno de un alcohol)”, explicó el científico a SEMANA luego de la cátedra desarrollada la noche de este jueves.
+
+De acuerdo con el experto, hasta el momento la idea de la O-Glucosilación había sido abordada someramente o sin éxito por otros investigadores a nivel mundial debido a lo difícil que es predecir los sitios de O-Glucosilación, en contraste con lo que sucede con los sitios de N-Glucosilación, en donde identificarlos es muy fácil en las secuencias de proteínas.
+
+Gámez y sus colaboradores de Estados Unidos y España encontraron que existe un punto clave “STP” (Serina-Treonina-Prolina) exactamente en el sitio por donde el virus se une al receptor ACE2 del humano, el cual se encuentra estabilizado por un puente disulfuro (C-C) y que es susceptible de O-Glucosilación. Coincidencialmente, este fue uno de los segmentos que él utilizó para idear su Protocolo Colombia de detección.
+
+¿Qué tiene que ver esto con los grupos sanguíneos?
+“De los dos tipos de Glucosilación, solo la O- permite el ensamblaje de antenas inmunogénicas relacionadas con los grupos AB0, al adherir azúcares que mimetizan los antígenos de los grupos A y B”, explicó el científico.
+
+Y fue aquí donde vino el descubrimiento más importante, hasta el momento, de la investigación: Gámez ha descubierto la conexión molecular por la que el virus podría estar generando una respuesta inmunológica natural, como lo plantean varios reportes a nivel mundial acerca de una factor protector en las personas del grupo sanguíneo O, quienes tienen una menor probabilidad de infección.
+
+Expertos que abordaron este tema anteriormente no habían encontrado una explicación bioquímica contundente a sus observaciones y descubrimientos.
+
+De acuerdo con Gámez, “estos hallazgos genéticos y moleculares van más allá del diagnóstico del Protocolo Colombia y tendrán implicaciones importantes tanto en tratamiento con plasma convaleciente a nivel mundial como en el diseño de futuras vacunas, además de contribuir en el país a una estrategia mejorada del aislamiento inteligente, ya que permitirá definir lineamientos para proteger a las personas con sangre tipo A, B y AB”.
+
+“Ya conocemos el camino. Lo más importante es todo el aprendizaje adquirido que nos permitirá en el futuro que Colombia sea una fuerza diagnóstica mundial, ya que lo aprendido lo podremos aplicar a otras enfermedades que afectan al país”, dijo el profesor.
+
+El reporte científico sobre estos descubrimientos ya está siendo elaborado por los autores (Gámez de la Universidad de Antioquia, César Carrasco de la Universidad de Princeton y el profesor Juan Hermoso del Consejo Superior de Investigaciones Científicas, CSIC, de España).
+
+El mundo está contra las cuerdas por este virus que en menos de dos meses paralizó prácticamente la mitad de la economía mundial y ha matado a cerca de 450.000 personas. El hallazgo de Gámez y su equipo tiene repercusiones importantes, porque podría dar con ese punto clave sobre dónde concentrarse para atacar el virus.
+
+“Esta es una lección que una vez más nos regala generosamente la Universidad Pública, desde una de sus aulas de posgrado. Por todo lo anterior, Colombia se puede convertir en una ‘hub‘ de investigación molecular y fuente de productividad científica”, finalizó el experto.

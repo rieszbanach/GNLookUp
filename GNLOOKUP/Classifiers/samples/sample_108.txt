@@ -1,0 +1,33 @@
+En billetes de $1.000 hallan 710 géneros de bacterias
+
+En dos trozos de billetes de $1.000 un análisis genómico detectó la presencia de un insospechado gran microzoológico: 710 géneros de bacterias.
+
+La variedad es muy alta, desde aquellas inocuas hasta algunas patógenas primarias y otras oportunistas, revela Juan Fernando Alzate Restrepo, director del Centro.
+
+Las más abundantes, lógico, son aquellas relacionadas con la piel y algunas secreciones, dada la manipulación con las manos. También hay algunos que viven de los químicos del papel. Alrededor del cinco por ciento son patógenas.
+
+El estudio fue hecho por el Centro Nacional de Secuenciación Genómica en la Sede de Investigación Universitaria de la Universidad de Antioquia y aún no ha llegado a clasificar las especies. Tampoco analizó los hongos presentes, lo que se hará en el segundo semestre, dijo Alzate Restrepo.
+
+El estudio reitera la capacidad del centro y su equipo de secuenciación, así como la alta capacidad de computación requerida para analizar la información de los estudios.
+
+La idea venía hace un tiempo. De billetes de $1.000 de la devuelta en una tienda, el director del CNSG tomó dos y los guardó en su billetera un tiempo. No son nuevos, tampoco los más gastados. De ellos tomaron unos 400 microgramos, de una parte de cada billete escogida al azar.
+
+Fueron sometidas a un proceso que las destruye mediante golpes con unas pequeñas bolas del equipo y en una solución acuosa. Luego se extraen los residuos y el ADN de los microorganismos es filtrado y viene la identificación.
+
+Este trabajo demandó tres días. Para el análisis se emplearon 400 gigas de RAM y 30 CPU, de los 1,3 teras que poseen que permiten correr 240 procesos en paralelo. 
+
+Los géneros hallados más abundantes son, (con su acción tomada de enciclopedia): 
+
+Corynebacterium: parte de la flora de la piel humana; Propionibacterium: en general no causan problemas de salud, viven cerca a las glándulas sebáceas; Actinomyces: algunas son patógenos oportunistas de los humanos; Staphylococcus: comunes en la piel en la que solo algunas especies causan enfermedad; Streptococcus: al que pertenecen especies que causan enfermedad y otras con aplicaciones en biotecnología.
+
+Y quinta, Prevotella: algunas de ellas son parte de la flora bucal y vaginal y se hallan en infecciones respiratorias.
+
+Dentro de las curiosidades, se encontró Neisseria, género al que pertenecen especies asociadas a la gonorrea y a la meningitis.
+
+Muchos de los géneros presentes en los billetes no han sido muy trabajados por la ciencia o son desconocidos en nuestro medio. 
+
+Con este trabajo "se hace visible lo invisible", indicó Alzate Restrepo y se logran resultados que no se obtienen con el método tradicional de la microbiología clínica.
+
+El estudio no pretende alarmar, sino mostrar la capacidad del Centro, al que incluso hoy llegan investigadores de países como Chile.
+
+De todas maneras, lavarse las manos tras manipular dinero no está de más.

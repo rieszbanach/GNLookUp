@@ -1,0 +1,126 @@
+sample_1.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_2.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_3.txt,Juan Diego Lopera Echavarria,Lopera,Sociales,PENDIENTE,False
+sample_4.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_5.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_6.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_7.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_8.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_10.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_11.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_13.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_14.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_15.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_16.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_17.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_18.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_19.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_20.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,True
+sample_21.txt,Ignacio Ramon Ferrin Vasquez,Ferrin,Ciencias Exactas,PENDIENTE,False
+sample_36.txt,Bernardo Barragan Castillon,Barragan,Artes,http://www.vanguardia.com/entretenimiento/sociales/406193-academico,True
+sample_37.txt,Alejandro Tobon Restrepo,Tobon,Artes,http://www.elcolombiano.com/cultura/investigaciones-en-artes-ya-se-pueden-medir-IE5262846,True
+sample_38.txt,Lina Maria Villegas Hincapie,Villegas,Artes,http://www.elcolombiano.com/cultura/investigaciones-en-artes-ya-se-pueden-medir-IE5262846,True
+sample_39.txt,Angela Maria Chaverra Brand,Chaverra,Artes,https://www.elespectador.com/noticias/actualidad/el-valor-de-la-virginidad-lo-que-hay-detras-de-su-venta-por-internet/,True
+sample_40.txt,Angela Maria Chaverra Brand,Chaverra,Artes, Brand http://www.vanguardia.com/entretenimiento/cultura/328300-ganadores-y-finalistas-del-premio-nacional-a-las-artes-y-a-las-letras,False
+sample_41.txt,Angela Maria Chaverra Brand,Chaverra,Artes,http://www.eltiempo.com/colombia/medellin/festival-de-artes-eroticas-en-medellin-35226,True
+sample_42.txt,Lina Maria Villegas Hincapie,Villegas,Artes,http://www.eluniversal.com.co/cultural/el-28-de-octubre-comienza-el-vii-congreso-internacional-de-arte-en-el-caribe-208697,True
+sample_43.txt,Ana Maria Tamayo Duque,Tamayo,Artes,https://www.elespectador.com/noticias/ciencia/cual-mejor-forma-medir-el-desarrollo-cientifico-el-pais-articulo-650615,True
+sample_44.txt,Simon Castaño Ramirez,Castaño,Artes,http://www.elcolombiano.com/cultura/musica/la-musica-contemporanea-un-cuento-raro-AX7541147,True
+sample_45.txt,Juan Sebastian Ochoa Escobar,Ochoa,Artes,http://www.zonadeobras.com/apuestas/2017/11/20/el-libro-de-las-cumbias-colombianas/,False
+sample_46.txt,Juan Sebastian Ochoa Escobar,Ochoa,Artes,http://www.radiosantafe.com/2014/11/07/la-javeriana-lanzo-libro-sobre-la-historia-musical-de-carlos-vives/,True
+sample_47.txt,Juan Sebastian Ochoa Escobar,Ochoa,Artes,https://www.elespectador.com/entretenimiento/arteygente/gente/presentaran-libro-sobre-carlos-vives-y-provincia-articulo-525982,True
+sample_48.txt,Esneider Valencia Hernandez,Valencia,Artes,http://www.elpais.com.co/entretenimiento/cultura/hoy-inicia-el-ii-festival-internacional-de-saxofon-bellas-artes.html,True
+sample_49.txt,Silvia Restrepo Restrepo,Restrepo,Artes,https://noticias.caracoltv.com/medellin/programese-la-orquesta-sinfonica-de-la-udea-presenta-la-primera-temporada-de-conciertos,True
+sample_50.txt,Gloria Patricia Pelaez Jaramillo,Pelaez,Sociales,https://www.semana.com/opinion/articulo/campus-de-la-universidad-de-antioquia-espacio-sin-control-opinion-de-juan-diego-restrepo/397917-3,True
+sample_51.txt,Jose Manuel Serrano,Manuel,Sociales,https://www.elheraldo.co/bolivar/cartagena-mas-heroica-que-fantastica-211362,True
+sample_52.txt,Francisco Javier Aceituno Bocanegro,Aceituno,Sociales,http://noticiasdelaciencia.com/not/8478/comunidades-vegetarianas-vivieron-en-la-amazonia-hace-10-000-anos/,True
+sample_53.txt,Juan Guillermo Molina Pajon,Molina,Sociales,https://www.elespectador.com/impreso/vivir/articuloimpreso198713-anatomia-de-un-coctel-antiseptico,True
+sample_54.txt,Jaime Rafael Nieto Lopez,Nieto,Sociales,http://www.eltiempo.com/archivo/documento/CMS-16504612,True
+sample_55.txt,Hernando Muñoz Sanchez,Muñoz,Sociales,https://www.nacion.com/el-pais/educacion/mep-busca-fortalecer-programa-de-afectividad-y-sexualidad-antes-de-llevarlo-a-otros-estudiantes/UCIACGLVDZCPLBY6DRW6KFJMI4/story/,True
+sample_56.txt,Hernando Muñoz Sanchez,Muñoz,Sociales,https://www.eltiempo.com/archivo/documento/CMS-16385044,True
+sample_57.txt,Hernando Muñoz Sanchez,Muñoz,Sociales,http://www.eltiempo.com/archivo/documento/CMS-15470976,True
+sample_58.txt,Hernando Muñoz Sanchez,Muñoz,Sociales,https://www.pulzo.com/nacion/antonio-caballero-w-radio-habla-sus-columnas-sobre-acoso-sexual-PP412619,True
+sample_59.txt,Mario Alberto Giraldo Ramirez,Giraldo,Sociales,https://www.las2orillas.co/pronunciamiento-del-sector-academico-sobre-el-paro-agrario/,True
+sample_60.txt,David Aguiar Gil,Aguiar,Ingenieria,https://www.rcnradio.com/colombia/antioquia/u-antioquia-alerto-contaminacion-del-aire-rionegro-puerto-triunfo,True
+sample_61.txt,Juan Pablo Osorio Salas,Osorio,Ingenieria,https://noticias.caracoltv.com/la-tragedia-de-villatina/de-quien-fue-la-responsabilidad-en-la-tragedia-de-villatina,True
+sample_62.txt,Sara Maria Robledo Restrepo,Robledo,Medicina,https://www.elespectador.com/noticias/actualidad/vivir/tras-cura-leishmaniasis-articulo-388472,True
+sample_63.txt,Ivàn Dario Velez Restrepo,Velez,Medicina,https://www.eltiempo.com/archivo/documento/CMS-14733036,True
+sample_64.txt,Ivan Dario Velez Restrepo,Velez,Medicina, http://www.elmundo.es/salud/2016/07/01/57769d6322601d7c578b4599.html,True
+sample_65.txt,Ivan Dario Velez Restrepo,Velez,Medicina,https://www.elnuevoherald.com/noticias/mundo/america-latina/colombia-es/article61671477.html,True
+sample_66.txt,Ivan Dario Velez Restrepo,Velez,Medicina,https://www.agenciasinc.es/Noticias/Mosquitos-con-genes-editados-para-erradicar-el-zika,True
+sample_67.txt,Ivan Dario Velez Restrepo,Velez,Medicina, https://www.las2orillas.co/el-remedio-paisa-contra-el-zika/,True
+sample_68.txt,Carlos Andres Villegas Lanau,Villegas,Medicina, https://www.eluniversal.com.co/salud/jugar-no-es-solo-cosa-de-ninos-152723-CWEU244042,True
+sample_69.txt,Maria Eulalia Tamayo Perez,Tamayo,Medicina,http://www.eluniversal.com.co/salud/si-su-bebe-es-prematuro-este-atento-algunas-afecciones-159995,True
+sample_70.txt,Francisco Javier Lopera Restrepo,Lopera,Medicina,https://www.latercera.com/noticia/el-lugar-donde-mueren-los-recuerdos/,True
+sample_71.txt,Francisco Javier Lopera Restrepo,Lopera,Medicina,https://www.lanacion.com.ar/economia/colombia-clave-en-la-lucha-contra-el-alzheimer-nid1788404,True
+sample_72.txt,Carlos Alberto Palacio Tobon,Palacio,Ingenieria,https://www.radionacional.co/noticia/ciencia/ingenieros-paisas-que-miraran-tierra-espacio,True
+sample_73.txt,Jairo Antonio Ruiz Cordoba,Ruiz,Ingenieria,https://www.rcnradio.com/colombia/antioquia/municipio-antioqueno-pionero-extraccion-oro-sin-mercurio,True
+sample_74.txt,Luz Viviana Cobaleda Estepa,Cobaleda,Ingenieria,http://www.elcomercio.com/tendencias/contenidos-twitter-personalizacion-productos-sociedad.html,True
+sample_75.txt,Ivan Dario Bedoya Caro,Bedoya,Ingenieria,https://www.elespectador.com/noticias/medio-ambiente/madera-dejo-de-generar-energia-articulo-448792,True
+sample_76.txt,Timisay Monsalve Vargas,Monsalve,Sociales,http://www.eltiempo.com/colombia/medellin/trasladan-tres-cementerios-por-obras-de-hidroituango-190106,True
+sample_77.txt,Francisco Javier Aceituno Bocanegro,Aceituno,Sociales,https://noticias.caracoltv.com/medellin/universidad-de-antioquia-alerta-sobre-posibles-riesgos-de-rescatar-el-galeon-san-jose-ie137,True
+sample_78.txt,Francisco Javier Aceituno Bocanegro,Aceituno,Sociales,https://www.elheraldo.co/colombia/arqueologos-piden-que-se-suspenda-licitacion-para-rescatar-el-san-jose-479012,True
+sample_79.txt,Francisco Javier Aceituno Bocanegro,Aceituno,Sociales,https://abcblogs.abc.es/espejo-de-navegantes/otros-temas/cientificos-de-todo-el-mundo-piden-a-colombia-que-pare-el-expolio-del-san-jose.html,True
+sample_80.txt,Sneider Hernan Rojas Moreno,Rojas,Sociales,http://sostenibilidad.semana.com/actualidad/articulo/cienaga-de-ayapel-territorio-ramsar-amenazado-por-la-mineria-y-ganaderia/39465,True
+sample_81.txt,Gregorio Andres Saldarriaga Escobar,Saldarriaga,Sociales,https://www.centropolismedellin.com/evento-paisa-tejido-alrededor-la-arepa/,False
+sample_82.txt,Mario Elkin Ramirez Ortiz,Ramirez,Sociales,http://archivo.eluniversal.com.mx/cultura/71961.html,True
+sample_83.txt,Jean Paul Sarrazin Martinez,Sarrazin,Sociales,http://www.eltiempo.com/cultura/gente/por-que-buscamos-ver-el-futuro-en-predicciones-167946,True
+sample_84.txt,Sara Yaneth Fernandez Moreno,Fernandez,Sociales,https://www.pulzo.com/nacion/violencia-sexual-universidades-foro-revista-vice-bogota-PP353074,True
+sample_85.txt,Rodrigo de Jesus Garcia Estrada,Garcia,Sociales,https://www.semana.com/cultura/articulo/el-gran-legado-de-los-inmigrantes-en-colombia/536182,True
+sample_86.txt,Jonathan Gallego Londoño,Gallego,Ingenieria,http://noticiasdelaciencia.com/not/7482/patentan_un_dispositivo_autonomo_para_medir_la_presion_plantar_e_identificar_el_arco_del_pie/,True
+sample_87.txt,Andres Adolfo Amell Arrieta,Amell,Ingenieria,https://www.semana.com/vida-moderna/tecnologia/articulo/reconocimiento-cientificos-colombianos/366565-3,False
+sample_88.txt,Luis Fernando Galeano Vasco,Galeano,Ciencias Agrarias,https://www.dicyt.com/noticias/una-jaula-inteligente-para-mejorar-la-produccion-avicola,True
+sample_89.txt,Nicolas Fernando Ramirez Vasquez,Ramirez,Ciencias Agrarias, http://www.lapatria.com/campo/mastitis-dolor-de-cabeza-de-los-lecheros-2897,True
+sample_90.txt,David Orlando Solaque Sossa,Solaque,Ciencias Agrarias,https://www.laopinion.com.co/zona-verde/las-vacunas-una-garantia-para-la-salud-de-su-mascota-112250#OP,True
+sample_91.txt,Lucia Atehortua Garces,Atehortua,Ciencias Exactas,https://elpais.com/elpais/2017/03/03/planeta_futuro/1488549977_159651.html,True
+sample_92.txt,Mauricio Andres Correa Ochoa,Correa,Ingenieria,https://noticias.caracoltv.com/colombia/medidas-para-mejorar-el-aire-en-medellin-se-han-quedado-cortas-segun-expertos,True
+sample_93.txt,Jairo Antonio Ruiz Cordoba,Ruiz,Ingenieria,https://www.kienyke.com/medio-ambiente/andes-sin-mercurio-en-su-actividad-minera-para-el-2018,True
+sample_94.txt,Juan Pablo Osorio Salas,Osorio,Ingenieria,https://www.kienyke.com/historias/villatina-el-barrio-que-se-trago-la-tierra-hace-30-anos,True
+sample_95.txt,David Aguiar Gil,Aguiar,Ingenieria,https://www.kienyke.com/tendencias/medio-ambiente/calidad-del-aire-en-rionegro-en-alerta,True
+sample_96.txt,Julian Humberto Ramirez Urrea,Ramirez,Medicina,https://www.kienyke.com/tendencias/salud-y-bienestar/hipertension-un-mal-sin-cura-pero-controlable,True
+sample_97.txt,Lucia Atehortua Garces,Atehortua,Ciencias Exactas,https://www.portafolio.co/negocios/empresas/bioenergia-solucion-detener-cambio-climatico-119210,True
+sample_98.txt,Sergio Alcides Solari Torres,Solari,Ciencias Exactas,https://www.rcnradio.com/medio-ambiente/carreteras-carros-trampas-mortales-millones-animales,True
+sample_99.txt,Marta Isabel Wolff Echeverri,Wolff,Ciencias Exactas,http://www.dicyt.com/noticias/insectos-minuteros-de-la-muerte,True
+sample_100.txt,Juan Jairo Zuluaga Arias,Zuluaga,Medicina,http://www.eltiempo.com/colombia/medellin/en-medellin-estan-aumentando-la-obesidad-y-el-sobrepeso-133582,False
+sample_101.txt,Lazaro Agustin Velez Giraldo,Velez,Medicina,https://www.vanguardia.com/entretenimiento/salud/los-adultos-tambien-necesitan-vacunas-BAVL123893,True
+sample_102.txt,Fabian Alberto Jaimes Barragan,Jaimes,Medicina,https://www.bbc.com/mundo/noticias/2016/02/160129_ciencia_inglaterra_septicemia_dificil_detectar_tratar_ppb,True
+sample_103.txt,Juan Carlos Restrepo Gutierrez,Restrepo,Medicina,http://caracol.com.co/programa/2018/02/01/sanamente/1517515792_164308.html,True
+sample_104.txt,Ivan Dario Velez Bernal,Velez,Medicina,https://www.telesurtv.net/news/Brote-de-malaria-en-Colombia-se-debe-a-la-mineria-ilegal-20160427-0063.html,True
+sample_105.txt,Ivan Dario Velez Bernal,Velez,Medicina,https://www.infosalus.com/salud-investigacion/noticia-bacterias-benigna-capaz-bloquear-transmision-zika-mosquitos-20160704064933.html,True
+sample_106.txt,Maria Teresa Rugeles Lopez,Rugeles,Medicina,https://www.elcorreo.com/salud/investigacion/20130422/espermatozoides-transmisor-201304221030-rc.html,True
+sample_107.txt,Juan Guillermo Ortega Jaramillo,Ortega,Medicina,https://oftalmologoaldia.com/entrevista-con-el-dr-juan-guillermo-ortega/,True
+sample_108.txt,Juan Fernando Alzate Restrepo,Alzate,Medicina,http://www.elcolombiano.com/historico/en_billetes_de_-1000_hallan_710_generos_de_bacterias-PBEC_243682,True
+sample_109.txt,Jose Luis Franco Restrepo,Franco,Medicina,https://www.elcolombiano.com/historico/para_el_mejor_doctor_del_mundo-CGEC_120983,True
+sample_110.txt,Jorge Carlos Holguin Lew,Holguin,Medicina,http://www.elcolombiano.com/colombia/salud/no-hay-dudas-los-antidepresivos-si-funcionan-FC8271340,False
+sample_111.txt,Carlos Alberto Palacio Acosta,Palacio,Medicina,http://www.elcolombiano.com/antioquia/especialistas-no-dan-abasto-para-cirugias-esteticas-JD4674784,True
+sample_112.txt,Jorge Julian Calle Bernal,Calle,Medicina,http://www.elcolombiano.com/colombia/salud/especialistas-en-salud-mental-FY6230456,True
+sample_113.txt,Cristian Mauricio Alvarez Botero,Alvarez,Medicina,http://www.elcolombiano.com/historico/si_hay_investigacion_en_inmunodeficiencia-OYEC_267867,True
+sample_114.txt,Ivan Dario Velez Bernal,Velez,Medicina,http://www.elcolombiano.com/internacional/el-ebola-resurge-en-su-cuna-pero-aun-no-se-autoriza-el-envio-de-vacunas-EA6543215,True
+sample_115.txt,Lia Isabel Alviar Ramirez,Alviar,Ingenieria,https://www.elcolombiano.com/antioquia/movilidad/medios-de-transporte-sostenibles-como-alternativa-a-la-crisis-ambiental-FN7096520,True
+sample_116.txt,Alfredo Jaramillo Velez,Jaramillo,Ingenieria,http://www.elcolombiano.com/medio-ambiente/las-playas-de-uraba-si-tienen-quien-las-quiera-XC2657514,True
+sample_117.txt,Juan Pablo Osorio Salas,Osorio,Ingenieria,http://www.elcolombiano.com/antioquia/obras/comienza-carrera-por-construccion-del-toyo-JC2040795,True
+sample_118.txt,Ruben Alberto Agudelo Garcia,Agudelo,Ingenieria,http://www.elcolombiano.com/antioquia/hay-mayor-conciencia-ambiental-frente-al-rio-DG8686731,True
+sample_119.txt,Betty Lucy Lopez Osorio,Lopez,Ciencias Exactas,http://www.elcolombiano.com/medio-ambiente/encuentran-fibras-de-plastico-en-el-agua-potable-CA7277589,True
+sample_120.txt,Jorge Ivan Zuluaga Callejas,Zuluaga,Ciencias Exactas,http://www.elcolombiano.com/historico/se_sobro_la_tatacoa-CAEC_140002,True
+sample_121.txt,Jorge Ivan Zuluaga Callejas,Zuluaga,Ciencias Exactas,http://www.elcolombiano.com/tendencias/asi-el-cielo-esta-al-alcance-de-todos-BE7134715,True
+sample_122.txt,Jorge Ivan Zuluaga Callejas,Zuluaga,Ciencias Exactas,http://www.elcolombiano.com/tecnologia/ciencia/astronomia-se-renueva-con-hallazgo-de-ondas-gravitacionales-KK3581936,True
+sample_123.txt,Jorge Ivan Zuluaga Callejas,Zuluaga,Ciencias Exactas,http://www.elcolombiano.com/tecnologia/ciencia/planeta-rocoso-en-la-estrella-mas-cercana-a-la-tierra-XH4845044,True
+sample_124.txt,Jorge Ivan Zuluaga Callejas,Zuluaga,Ciencias Exactas,http://www.elcolombiano.com/historico/el_solsticio_de_verano_es_hoy-KVEC_186581,True
+sample_125.txt,Jorge Ivan Zuluaga Callejas,Zuluaga,Ciencias Exactas,http://www.elcolombiano.com/tendencias/10-claves-para-entender-la-relatividad-general-GB3175888,True
+sample_126.txt,Jorge Ivan Zuluaga Callejas,Zuluaga,Ciencias Exactas,http://www.elcolombiano.com/historico/congreso_de_astrobiologia_que_se_cumple_en_medellin_analiza_vida_en_otros_mundos-FFEC_208379,True
+sample_127.txt,Jorge Ivan Zuluaga Callejas,Zuluaga,Ciencias Exactas,http://www.elcolombiano.com/historico/el_sol_prepara_su_pico_aumentan_explosiones-OGEC_211780,True
+sample_128.txt,Jesus Francisco Vargas Bonilla,Vargas,Ingenieria,http://www.elcolombiano.com/colombia/educacion/las-carreras-del-futuro-ya-estan-en-formacion-CB6407444,True
+sample_129.txt,Jesus Francisco Vargas Bonilla,Vargas,Ingenieria,PENDIENTE,True
+sample_130.txt,Felix Echeverria Echeverria,Echeverria,Ingenieria,http://www.elcolombiano.com/empresas-en-accion/sabe-usted-como-gana-la-region-al-invertir-en-ct-i-LI8479962,True
+sample_131.txt,Nestor Jaime Aguirre Ramirez,Aguirre,Ingenieria,http://www.elcolombiano.com/colombia/buscan-frenar-mineria-ilegal-en-la-cienaga-de-ayapel-cordoba-CY7177576,True
+sample_132.txt,Jorge Eduardo Suarez Gomez,Suarez,Sociales,http://www.elcolombiano.com/antioquia/movilidad/metrocable-de-san-javier-los-suenos-al-viento-JA8424920,True
+sample_133.txt,Gabriel Jaime Velez Cuartas,Velez,Sociales,http://www.elcolombiano.com/tecnologia/influenciadores-en-medellin-y-en-el-mundo-asi-es-su-trabajo-CN7492242,True
+sample_134.txt,Hernando Muñoz Sanchez,Muñoz,Sociales,http://www.elcolombiano.com/historico/la_hora_del_hombre_retrosexual-PCEC_169305,True
+sample_135.txt,Alejandra Restrepo Monica,Restrepo,Sociales,http://www.elcolombiano.com/historico/ni_una_muerte_mas_ni_una_mujer_menos-GCEC_257526,True
+sample_136.txt,Juan Guillermo Zapata Avila,Zapata,Sociales,http://www.elcolombiano.com/colombia/acuerdos-de-gobierno-y-farc/la-heterogenea-composicion-de-los-votantes-del-plebiscito-DL5085511,True
+sample_137.txt,Marta Isabel Dominguez Mejia,Dominguez,Sociales,http://www.elcolombiano.com/deportes/otros-deportes/trio-con-alma-de-mosqueteros-YA8626436,True
+sample_138.txt,Gloria Patricia Pelaez Jaramillo,Pelaez,Sociales,http://www.elcolombiano.com/antioquia/demandaran-examen-para-acceder-a-cargos-publicos-EM3718204,True
+sample_139.txt,Sandra Maria Turbay Ceballos,Turbay,Sociales,http://www.elcolombiano.com/colombia/educacion/posgraduados-aun-son-minoria-BA7442030,True
+sample_140.txt,David Aguiar Gil,Aguiar,Ingenieria,http://www.elcolombiano.com/antioquia/los-dispositivos-para-medir-el-exceso-de-ruido-en-medellin-LL7638638,True
+sample_141.txt,David Aguiar Gil,Aguiar,Ingenieria,http://www.elcolombiano.com/antioquia/pacto-ambiental-por-la-calidad-del-aire-del-valle-de-aburra-EB8131574,True
+sample_142.txt,Francisco Jose Molina Perez,Molina,Ingenieria,http://www.elcolombiano.com/antioquia/municipios-de-antioquia-que-no-tratan-sus-aguas-negras-LD6104827,True

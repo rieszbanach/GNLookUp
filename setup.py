@@ -26,7 +26,7 @@ if __name__ == '__main__':
 
 		python_requires=REQUIRES_PYTHON,
 
-		packages=setuptools.find_packages(),
+		packages=setuptools.find_packages(exclude=['tests']),
 
 		install_requires=REQUIRED,
 

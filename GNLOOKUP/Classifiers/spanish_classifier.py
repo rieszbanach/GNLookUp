@@ -4,9 +4,6 @@ import itertools
 from pathlib import Path
 
 script_location = Path(__file__).absolute().parent
-print(script_location)
-#file_location = script_location / 'file.yaml'
-#file = file_location.open()
 
 # PATTERNS
 
@@ -959,7 +956,7 @@ def article_label(article_filename):
 	return label
 	
 	
-def minimal_performance_metric(articles_filenames):
+def accuracy(articles_filenames):
 	
 	start = time.time()
 	

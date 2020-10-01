@@ -1015,8 +1015,8 @@ def multicore_accuracy(articles_filenames):
 	
 	pool = multiprocessing.Pool()
 	pool_outputs = pool.map(article_classifier_helper, articles_filenames)
-	pool.close() 
-	pool.join()	
+	pool.close()
+	pool.join()
 	
 	for idx, result in enumerate(pool_outputs):
 		

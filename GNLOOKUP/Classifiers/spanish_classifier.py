@@ -2,6 +2,7 @@ import re
 import time
 import itertools
 from pathlib import Path
+import multiprocessing
 
 script_location = Path(__file__).absolute().parent
 
@@ -84,7 +85,8 @@ banned_terms = banned_terms.difference(valid_connectors)
 
 banned_terms = banned_terms.difference(verb_homonyms)
 
-common_proper_nouns = words_set(script_location /
+common_proper_nouns = words_set(
+	script_location /
 	'glosarium/common_proper_nouns.txt'
 )
 
@@ -149,7 +151,7 @@ def articles_classifier(
 		
 		for pattern_match in pattern_matches:
 			
-			approval = pattern_separators[idx](pattern_match)
+			approval = pattern_separators[idx](pattern_match, univ)
 			
 			if approval[0]:
 				
@@ -164,7 +166,7 @@ def articles_classifier(
 	return [False, rejected]
 
 	
-def pattern_1_separator(pattern_1_match):
+def pattern_1_separator(pattern_1_match, university):
 		"""
 		Approves or not the likelihood of a relationship between the target name
 		and the university appearing simultaneously in a pattern_1 text
@@ -235,7 +237,7 @@ def pattern_1_separator(pattern_1_match):
 		return [False, match.group(0), no_coworker]
 
 
-def pattern_2_separator(pattern_2_match):
+def pattern_2_separator(pattern_2_match, university):
 		"""
 		Approves or not the likelihood of a relationship between the target name
 		and the university appearing simultaneously in a pattern_2 text
@@ -254,7 +256,7 @@ def pattern_2_separator(pattern_2_match):
 		) = match.groups()
 		
 		print(non_target_centr_expr, 'non_target_centr_expr')
-		print(right_expr,'right_expr')
+		print(right_expr, 'right_expr')
 		print(expr_after_target, 'expr_after_target')
 		
 		pattern_2_relevant_left_expr = relevant_expr(
@@ -332,7 +334,15 @@ def pattern_2_separator(pattern_2_match):
 			else
 			False
 		)
-		if not no_coworker and not is_slide:
+		if (
+			not no_coworker
+			and not is_slide
+			and is_from_university(
+				expr_after_target,
+				pattern_2_right_expr_prof_attributes,
+				university
+			)
+		):
 			
 			return [True, match.group(0)]
 			
@@ -497,7 +507,7 @@ def patterns_finder(
 		
 		second_surname += word
 	
-# Everyone's supposed to have two surnames, no matter whether they are composed
+# Everyone's supposed to have two surnames,no matter whether these are composed
 
 	combinations = []
 
@@ -606,7 +616,11 @@ def diacritics_filter(text, diacritized_pattern=diacritized_pattern):
 
 def article_classifier_helper(article_filename):
 
-	with open(script_location / 'samples/articles_metadata.txt', 'r', encoding='utf-8') as f:
+	with open(
+		script_location / 'samples/articles_metadata.txt',
+		'r',
+		encoding='utf-8'
+	) as f:
 		articles_min_metadata = f.read()
 	
 	metadata_pattern = re.compile('{},(.+?),(.+?),'.format(article_filename))
@@ -853,7 +867,11 @@ def is_coworker(partial_person_name):
 	
 	coworker = re.compile(coworker_pattern)
 		
-	with open(script_location / 'samples/researchers.txt', 'r', encoding='utf-8') as f:
+	with open(
+		script_location / 'samples/researchers.txt',
+		'r',
+		encoding='utf-8'
+	) as f:
 		researchers = f.read()
 	
 	coworker_matches = coworker.finditer(researchers)
@@ -940,7 +958,11 @@ def connectors_filter(possible_person, possible_person_names):
 
 def article_label(article_filename):
 
-	with open(script_location / 'samples/articles_metadata.txt', 'r', encoding='utf-8') as f:
+	with open(
+		script_location / 'samples/articles_metadata.txt',
+		'r',
+		encoding='utf-8'
+	) as f:
 		articles_min_metadata = f.read()
 	
 	article_line_pattern = re.compile('{},(.+\\n?)'.format(article_filename))
@@ -966,6 +988,8 @@ def accuracy(articles_filenames):
 	
 	for article_filename in articles_filenames:
 		
+		print(article_filename, 'article_filename')
+		
 		classification = article_classifier_helper(article_filename)[0]
 		
 		if (str(classification) == article_label(article_filename)):
@@ -976,8 +1000,36 @@ def accuracy(articles_filenames):
 			
 			errors.append(article_filename)
 		
-#		hits += 1 if (str(classification) == article_label(article_filename)) else 0
+	accuracy = hits/len(articles_filenames)
+	
+	return (hits, accuracy, errors, time.time()-start)
+
+
+def multicore_accuracy(articles_filenames):
+	
+	start = time.time()
+	
+	hits = 0
+	
+	errors = []
+	
+	pool = multiprocessing.Pool()
+	pool_outputs = pool.map(article_classifier_helper, articles_filenames)
+	pool.close() 
+	pool.join()	
+	
+	for idx, result in enumerate(pool_outputs):
 		
+		classification = result[0]
+		
+		if (str(classification) == article_label(articles_filenames[idx])):
+			
+			hits += 1
+			
+		else:
+			
+			errors.append(articles_filenames[idx])
+	
 	accuracy = hits/len(articles_filenames)
 	
 	return (hits, accuracy, errors, time.time()-start)
@@ -985,7 +1037,11 @@ def accuracy(articles_filenames):
 
 def articles_filenames():
 
-	with open(script_location / 'samples/articles_metadata.txt', 'r', encoding='utf-8') as f:
+	with open(
+		script_location / 'samples/articles_metadata.txt',
+		'r',
+		encoding='utf-8'
+	) as f:
 		articles_min_metadata = f.readlines()
 	
 	articles_filena = [line.split(',')[0] for line in articles_min_metadata]
@@ -1030,3 +1086,92 @@ def confusion_matrix(articles_filenames):
 	fpr = false_positives/negatives
 	
 	return [tpr, fpr, positives, negatives]
+
+
+def university_name_ending(university):
+	
+	u_ending_pattern = re.compile('Universidad (.+)$')
+
+	u_name_ending = u_ending_pattern.findall(university)[0]
+	
+	return u_name_ending
+
+
+def is_another_university(text, university):
+	
+	u_name_ending = university_name_ending(university)
+	
+	another_u_pattern = re.compile(
+		'Universidad(?:(?!\.)(?!\,)(?! {Name_Ending}).)+'.format(
+			Name_Ending=u_name_ending
+		)
+	)
+	
+	another_u = another_u_pattern.findall(text)
+	
+	return another_u
+
+
+def is_this_university(text, university):
+	
+	u_name_ending = university_name_ending(university)
+	
+	this_u_pattern = re.compile(
+		'(Universidad|U)(?:(?=\.)|(?=\,)|(?= {Name_Ending}).)+'.format(
+			Name_Ending=u_name_ending
+		)
+	)
+	
+	this_u = this_u_pattern.findall(text)
+	
+	return this_u
+
+
+def is_from_university(right_expr, attributes_proffesor, university):
+	
+	print(right_expr)
+	
+	if is_this_university(right_expr, university):
+		
+		return True
+	
+	if is_another_university(right_expr, university):
+		
+		return False
+		
+	attributes = [
+		attribute for attribute in attributes_proffesor
+		if attribute[0].isupper()
+	]
+	
+	print(attributes, 'attributes')
+	
+	if not attributes:
+		
+		return True
+	
+	if not any([is_alien(attribute) for attribute in attributes]):
+		
+		return True
+	
+	else:
+		
+		return False
+
+
+glossary = tuple(['Pecet', 'Facom'])
+
+
+def is_alien(cap_word):
+	
+	if (
+		cap_word.strip('s') not in sustantives
+		and cap_word.strip('s') not in adjectives
+		and cap_word.strip('s') not in prepositions
+		and cap_word.strip('s') not in glossary
+	):
+		
+		return True
+		
+	else:
+		return False
